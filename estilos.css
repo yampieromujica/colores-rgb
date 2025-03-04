@@ -18,9 +18,8 @@ body {
 /* CONTENEDORES */
 
 .contenedor-principal {
-  width: 60%;
-  max-width: 300px;
-  min-height: 250px;
+  width: 90%;
+  height: 250px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
