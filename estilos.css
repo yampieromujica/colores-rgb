@@ -19,7 +19,7 @@ body {
 
 .contenedor-principal {
   width: 90%;
-  height: 250px;
+  height: max-content;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
